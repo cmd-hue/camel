@@ -62,7 +62,7 @@ channels:
   abbr: CNPS
   video: https://watch.mistweather.com/hls/cnplus/playlist.m3u8
 
-- number: 110
+- number: 3
   name: Camp Gorillit
   title: Camp Gorillit
   abbr: ROUTINE
