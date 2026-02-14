@@ -61,3 +61,16 @@ channels:
   title: Cartoon Network Plus
   abbr: CNPS
   video: https://watch.mistweather.com/hls/cnplus/playlist.m3u8
+
+- number: 110
+  name: Camp Gorillit
+  title: Camp Gorillit
+  abbr: ROUTINE
+  daily-schedule:
+    content:
+    - startTime: "06:00"
+      endTime: "12:00"
+      video: https://dn721909.ca.archive.org/0/items/steamboat-willie_1928/steamboat-willie_1928.ia.mp4
+    - startTime: "13:00"
+      endTime: "13:30"
+      video: https://archive.org/download/allo-allo/01%20-%20Allo%20Allo%20S1E00%20-%20The%20British%20Are%20Coming%20%5BPilot%5D.mp4
