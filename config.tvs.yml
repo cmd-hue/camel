@@ -1,11 +1,10 @@
-noise: 0.15
+applicationTitle: Television Simulator Public Beta
+noise: 0.2
 shadowMask: aperture-grille
 bezel: flat
 
 osd:
-  theme: digital
-  primaryColor: "#00FFFC"
-  accentColor: "#F600FF"
+  theme: sat2007
 
 defaultChannel: 1
 
@@ -44,7 +43,7 @@ channels:
             - ./placeholders/guide-ad.png
     b: # B is the bottom part
       guide: # Program guides read the current channel lineup to reconstruct listings based off channel numbers, title and description. https://greenhillplaza.notion.site/Program-Guides-46e80919a3754efa9769f74dd00946fe?pvs=4
-        logo: /placeholders/guide-header.png # Logo to show at the top of the guide
+        logo: ./logo.svg # Logo to show at the top of the guide
         alerts: # "Alerts" that show up at certain positions in the guide.
           - position: 12 # The channel to show the alert after. Doesn't need to be a real channel.
             text: |
@@ -63,14 +62,17 @@ channels:
   video: https://watch.mistweather.com/hls/cnplus/playlist.m3u8
 
 - number: 3
-  name: Camp Gorillit
-  title: Camp Gorillit
-  abbr: ROUTINE
+  name: Camp Gorillit Public Access
+  abbr: CGPA
+  noSignalContent: 
+  image: placeholders/no-signal.png
   daily-schedule:
     content:
     - startTime: "06:00"
       endTime: "12:00"
       video: https://dn721909.ca.archive.org/0/items/steamboat-willie_1928/steamboat-willie_1928.ia.mp4
-    - startTime: "13:00"
-      endTime: "13:30"
+      title: Steamboat Willie
+    - startTime: "12:00"
+      endTime: "12:30"
       video: https://archive.org/download/allo-allo/01%20-%20Allo%20Allo%20S1E00%20-%20The%20British%20Are%20Coming%20%5BPilot%5D.mp4
+      title: Allo Allo Pilot
