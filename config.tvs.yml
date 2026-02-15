@@ -1,4 +1,4 @@
-applicationTitle: Television Simulator Public Beta
+applicationTitle: Camp Camel TV Service
 noise: 0.2
 shadowMask: aperture-grille
 bezel: flat
@@ -7,7 +7,8 @@ osd:
   theme: sat2007
 
 defaultChannel: 1
-
+noSignalContent: 
+image: offline.png
 channels:
 
 - number: -1 
@@ -62,10 +63,8 @@ channels:
   video: https://watch.mistweather.com/hls/cnplus/playlist.m3u8
 
 - number: 3
-  name: Camp Gorillit Public Access
-  abbr: CGPA
-  noSignalContent: 
-  image: placeholders/no-signal.png
+  name: Camp Camel Public Access
+  abbr: CCPA
   daily-schedule:
     content:
     - startTime: "06:00"
