@@ -12,7 +12,8 @@ startup:
 
 defaultChannel: 1
 noSignalContent: 
-image: offline.png
+ image: offline.png
+
 channels:
 
 - number: -1 
