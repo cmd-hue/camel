@@ -16,8 +16,6 @@ noSignalContent:
 
 channels:
 
-- number: -1 
-
 - number: 1 # As mentioned previously you can declare channels in any order; they'll be arranged when you begin.
   name: Program Guide
   abbr: GUIDE
@@ -75,3 +73,10 @@ channels:
       endTime: "12:30"
       video: https://archive.org/download/allo-allo/01%20-%20Allo%20Allo%20S1E00%20-%20The%20British%20Are%20Coming%20%5BPilot%5D.mp4
       title: Allo Allo Pilot
+
+- number: 4
+  name: NLEC TV
+  abbr: NLTV
+  title: NLEC TV
+  icon: https://files.snappages.site/4Z33KD/assets/favicon.png
+  video: https://622e9a7089364.streamlock.net/live/ngrp:24-2_all/playlist.m3u8
