@@ -80,3 +80,10 @@ channels:
   title: NLEC TV
   icon: https://files.snappages.site/4Z33KD/assets/favicon.png
   video: https://622e9a7089364.streamlock.net/live/ngrp:24-2_all/playlist.m3u8
+
+- number: 5
+  name: KNLG
+  abbr: KNLG
+  title: KNLG
+  description: Listen to the live stream of the Here's Help Radio Network right here on Camp Camel.
+  backgroundAudio: https://ice24.securenetsystems.net/KNLG
