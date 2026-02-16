@@ -28,9 +28,9 @@ channels:
       - slideshow:
           duration: 10
           images:
-            
             - ./ads/catdog-dvd-request.png
             - ./ads/cnplus.png
+            - ./ads/vidtape.png
     b: # B is the bottom part
       guide: # Program guides read the current channel lineup to reconstruct listings based off channel numbers, title and description. https://greenhillplaza.notion.site/Program-Guides-46e80919a3754efa9769f74dd00946fe?pvs=4
         logo: ./logo.svg # Logo to show at the top of the guide
