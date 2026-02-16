@@ -81,14 +81,8 @@ channels:
   icon: https://files.snappages.site/4Z33KD/assets/favicon.png
   video: https://622e9a7089364.streamlock.net/live/ngrp:24-2_all/playlist.m3u8
 
-- number: 5
-  name: KNLG
-  abbr: KNLG
-  title: KNLG
-  description: Listen to the live stream of the Here's Help Radio Network right here on Camp Camel.
-  backgroundAudio: https://ice24.securenetsystems.net/KNLG
 
-- number: 6
+- number: 5
   name: Aquarium
   title:  Aquarium
   abbr: AQUA
@@ -96,9 +90,11 @@ channels:
    src: https://webglsamples.org/aquarium/aquarium.html
    allowInteraction: false
 
-- number: 7
+- number: 6
   name: Random
   title:  Random
   abbr: RND
   description: random pictures
   image: https://loremflickr.com/640/360?random=1
+
+- number: 7
