@@ -4,7 +4,7 @@ shadowMask: aperture-grille
 bezel: flat
 
 osd:
-  theme: sat2007
+  theme: digital
 
 defaultChannel: 1
 noSignalContent: 
@@ -29,22 +29,18 @@ channels:
           duration: 10
           images:
             
-            - ./placeholders/guide-ad-3.png
-            - ./placeholders/tips-03.png
-            - ./placeholders/guide-ad.png
+            - ./ads/catdog-dvd-request.png
+            - ./ads/cnplus.png
     b: # B is the bottom part
       guide: # Program guides read the current channel lineup to reconstruct listings based off channel numbers, title and description. https://greenhillplaza.notion.site/Program-Guides-46e80919a3754efa9769f74dd00946fe?pvs=4
         logo: ./logo.svg # Logo to show at the top of the guide
         alerts: # "Alerts" that show up at certain positions in the guide.
           - position: 12 # The channel to show the alert after. Doesn't need to be a real channel.
             text: |
-              Severe Thunderstorm Warning issued for Greenhill County until 6:00 PM
+              If any channels aren't working, contact a staffmember.
           - position: 100
             text: | # You can define text over multiple lines but it'll be compressed to a single line.
-              The following county services are unavailable:
-              Greenhill County Sheriff's Office
-              Greenhill County Fire Department
-              Greenhill County Emergency Services
+              Warning: Piracy is a crime and could get you a few years in prison. Do NOT Do It.
 
 - number: 2
   name: Cartoon Network Plus
@@ -82,3 +78,6 @@ channels:
   image: https://loremflickr.com/640/360?random=1
 
 - number: 7
+  name: WeatherScan
+  title: WeatherScan
+  video: https://watch.mistweather.com/hls/asrn2/playlist.m3u8
