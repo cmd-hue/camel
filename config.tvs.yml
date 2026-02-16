@@ -6,10 +6,6 @@ bezel: flat
 osd:
   theme: sat2007
 
-startup:
-   content: 
-     video: https://file.garden/aUYIWVAKvQxCBY-_/video/other/memes/turkeysandwich.mov 
-
 defaultChannel: 1
 noSignalContent: 
  image: offline.png
@@ -57,22 +53,10 @@ channels:
   video: https://watch.mistweather.com/hls/cnplus/playlist.m3u8
 
 - number: 3
-  name: Camp Camel Public Access
-  abbr: CCPA
-  daily-schedule:
-    content:
-    - startTime: "05:58"
-      endTime: "06:00"
-      video: https://file.garden/aUYIWVAKvQxCBY-_/video/other/urlrips/shellcart.mp4
-      title: shell cart
-    - startTime: "06:00"
-      endTime: "12:00"
-      video: https://dn721909.ca.archive.org/0/items/steamboat-willie_1928/steamboat-willie_1928.ia.mp4
-      title: Steamboat Willie
-    - startTime: "12:00"
-      endTime: "12:30"
-      video: https://archive.org/download/allo-allo/01%20-%20Allo%20Allo%20S1E00%20-%20The%20British%20Are%20Coming%20%5BPilot%5D.mp4
-      title: Allo Allo Pilot
+  name: allo allo
+  title: allo allo
+  abbr: alo
+  video: https://archive.org/download/allo-allo/01%20-%20Allo%20Allo%20S1E00%20-%20The%20British%20Are%20Coming%20%5BPilot%5D.mp4
 
 - number: 4
   name: NLEC TV
