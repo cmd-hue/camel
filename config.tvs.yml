@@ -87,3 +87,18 @@ channels:
   title: KNLG
   description: Listen to the live stream of the Here's Help Radio Network right here on Camp Camel.
   backgroundAudio: https://ice24.securenetsystems.net/KNLG
+
+- number: 6
+  name: Aquarium
+  title:  Aquarium
+  abbr: AQUA
+  iframe: 
+   src: https://webglsamples.org/aquarium/aquarium.html
+   allowInteraction: false
+
+- number: 7
+  name: Random
+  title:  Random
+  abbr: RND
+  description: random pictures
+  image: https://loremflickr.com/640/360?random=1
