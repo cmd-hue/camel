@@ -86,3 +86,11 @@ channels:
   name: WeatherScan
   title: WeatherScan
   video: https://watch.mistweather.com/hls/asrn2/playlist.m3u8
+
+- number: 8
+  name: Clock
+  title:  Current Time
+  abbr: CLK
+  iframe: 
+   src: https://cmd-hue.github.io/camel/clock/index.html
+   allowInteraction: false
