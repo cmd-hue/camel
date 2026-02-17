@@ -18,7 +18,7 @@ channels:
   abbr: GUIDE
   title: Prevue Guide
   noise: 0.1
-  backgroundAudio: backgroundAudio: https://cmd-hue.github.io/camel/outage/music.pls
+  backgroundAudio: https://cmd-hue.github.io/camel/outage/music.pls
   v-split: # Program guides are traditionally split in half; the top half is advertising and the lower half is the guide data. We use the v-split layout which defines two components, A and B.
     a: # A is the top part. See: https://greenhillplaza.notion.site/Layouts-728ab1198d4049de8f4b9a4ff6b31efe?pvs=4
       loop:
