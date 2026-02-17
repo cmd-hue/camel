@@ -9,6 +9,7 @@ osd:
 defaultChannel: 1
 noSignalContent: 
  image: offline.png
+ backgroundAudio: https://cmd-hue.github.io/camel/outage/music.pls
 
 channels:
 
@@ -17,16 +18,12 @@ channels:
   abbr: GUIDE
   title: Prevue Guide
   noise: 0.1
-  backgroundAudio: http://radio.plaza.one/mp3
-  backgroundAudioOptions:
-    description: Nightwave Plaza Radio # Optional. Credits will appear in the Info OSD
-    nowPlayingUrl: https://api.plaza.one/status # Optional. If the radio service you're using has a song history API you can link to it here.
-    nowPlayingProvider: plaza-one # Required if using nowPlayingUrl. Only a few providers are supported right now; see the documentation for more info.
+  backgroundAudio: backgroundAudio: https://cmd-hue.github.io/camel/outage/music.pls
   v-split: # Program guides are traditionally split in half; the top half is advertising and the lower half is the guide data. We use the v-split layout which defines two components, A and B.
     a: # A is the top part. See: https://greenhillplaza.notion.site/Layouts-728ab1198d4049de8f4b9a4ff6b31efe?pvs=4
       loop:
       - slideshow:
-          duration: 10
+          duration: 3.14
           images:
             - ./ads/catdog-dvd-request.png
             - ./ads/cnplus.png
