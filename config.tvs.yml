@@ -10,8 +10,8 @@ refs:
   mcvc:
     backgroundAudio: https://cmd-hue.github.io/camel/outage/music.pls
     backgroundAudioOptions:
-      shufflePlaylist: true
-      description: Music Voice
+     shufflePlaylist: true
+     description: Music Voice
 
 defaultChannel: 1
 noSignalContent: 
