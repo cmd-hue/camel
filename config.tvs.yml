@@ -6,16 +6,13 @@ startUnmuted: true
 osd:
   theme: digital
 
-  refs:
-    mcvc:
-        backgroundAudio: https://cmd-hue.github.io/camel/outage/music.pls
-        backgroundAudioOptions:
-          shufflePlaylist: true
 
 defaultChannel: 1
 noSignalContent: 
  image: offline.png
- ref: mcvc
+ backgroundAudio: https://cmd-hue.github.io/camel/outage/music.pls
+ backgroundAudioOptions:
+   shufflePlaylist: true
 
 channels:
 
@@ -24,7 +21,9 @@ channels:
   abbr: GUIDE
   title: Prevue Guide
   noise: 0.1
-  ref: mcvc
+  backgroundAudio: https://cmd-hue.github.io/camel/outage/music.pls
+  backgroundAudioOptions:
+    shufflePlaylist: true
   v-split: # Program guides are traditionally split in half; the top half is advertising and the lower half is the guide data. We use the v-split layout which defines two components, A and B.
     a: # A is the top part. See: https://greenhillplaza.notion.site/Layouts-728ab1198d4049de8f4b9a4ff6b31efe?pvs=4
       loop:
@@ -106,7 +105,9 @@ channels:
 - number: 10
   name: Music Voice
   abbr: MCVC
-  ref: mcvc
+  backgroundAudio: https://cmd-hue.github.io/camel/outage/music.pls
+  backgroundAudioOptions:
+    shufflePlaylist: true
   daily-schedule:
     content:
     - startTime: "19:00" 
