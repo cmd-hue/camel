@@ -107,16 +107,18 @@ channels:
   abbr: MCVC
   backgroundAudio: https://cmd-hue.github.io/camel/musicvoice/music.pls
   backgroundAudioOptions:
-   shufflePlaylist: true
-   description: Music Voice
+    shufflePlaylist: true
+    description: Music Voice
   daily-schedule:
     content:
-    - startTime: 19:00
-      endTime: 0:00
-      image: https://cmd-hue.github.io/camel/musicvoice/musicvoice_nightslide.png
-    - startTime: 0:00
-      endTime: 6:00
-      image: https://cmd-hue.github.io/camel/musicvoice/musicvoice_nightslide.png
-    - startTime: 6:00
-      endTime: 19:00
-      image: https://cmd-hue.github.io/camel/musicvoice/musicvoice_slide.png
+      - startTime: 18:00
+        endTime: 23:59
+        image: https://cmd-hue.github.io/camel/musicvoice/musicvoice_nightslide.png
+
+      - startTime: 00:00
+        endTime: 06:00
+        image: https://cmd-hue.github.io/camel/musicvoice/musicvoice_nightslide.png
+
+      - startTime: 06:00
+        endTime: 18:00
+        image: https://cmd-hue.github.io/camel/musicvoice/musicvoice_slide.png
