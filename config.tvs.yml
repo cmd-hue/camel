@@ -94,3 +94,9 @@ channels:
   iframe: 
    src: https://cmd-hue.github.io/camel/clock/index.html
    allowInteraction: false
+
+- number: 9
+  name: Camp Previews
+  title:  Camp Previews
+  abbr: PRE
+  video: https://cmd-hue.github.io/camel/shows/playlist.pls
