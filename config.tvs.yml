@@ -105,6 +105,8 @@ channels:
 - number: 10
   name: Music Voice
   abbr: MCVC
+  title: Music Voice
+  description: Music. 24/7 Random Music which logo is like music choice.
   backgroundAudio: https://cmd-hue.github.io/camel/musicvoice/music.pls
   backgroundAudioOptions:
     shufflePlaylist: true
