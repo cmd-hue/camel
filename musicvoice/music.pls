@@ -18,7 +18,7 @@ Title5=Last Living Souls
 File6=https://dn710608.ca.archive.org/0/items/08-every-planet-we-reach-is-dead_202503/Demon%20Days/03%20Kids%20With%20Guns.mp3
 Title6=Kids With Guns
 
-File7=http://archive.org/download/08-every-planet-we-reach-is-dead_202503/Demon%20Days/04%20-%20O%20Green%20World.mp3
+File7=https://dn710608.ca.archive.org/0/items/08-every-planet-we-reach-is-dead_202503/Demon%20Days/04%20O%20Green%20World.mp3
 Title7=O Green World
 
 File8=https://dn710608.ca.archive.org/0/items/08-every-planet-we-reach-is-dead_202503/Demon%20Days/05%20Dirty%20Harry.mp3
@@ -27,7 +27,7 @@ Title8=Dirty Harry
 File9=https://dn710608.ca.archive.org/0/items/08-every-planet-we-reach-is-dead_202503/Demon%20Days/07%20El%20ma%C3%B1ana.mp3
 Title9=El Mañana
 
-File10=http://archive.org/download/08-every-planet-we-reach-is-dead_202503/Demon%20Days/08%20-%20Every%20Planet%20We%20Reach%20Is%20Dead.mp3
+File10=https://dn710608.ca.archive.org/0/items/08-every-planet-we-reach-is-dead_202503/Demon%20Days/08%20Every%20Planet%20We%20Reach%20Is%20Dead.mp3
 Title10=Every Planet We Reach Is Dead
 
 File11=https://dn710608.ca.archive.org/0/items/08-every-planet-we-reach-is-dead_202503/Demon%20Days/09%20November%20Has%20Come.mp3
@@ -39,13 +39,13 @@ Title12=All Alone
 File13=https://dn710608.ca.archive.org/0/items/08-every-planet-we-reach-is-dead_202503/Demon%20Days/11%20White%20Light.mp3
 Title13=White Light
 
-File14=https://ia600205.us.archive.org/21/items/08-every-planet-we-reach-is-dead_202503/Demon%20Days/12%20Dare.mp3
+File14=https://dn710608.ca.archive.org/21/items/08-every-planet-we-reach-is-dead_202503/Demon%20Days/12%20Dare.mp3
 Title14=Dare
 
-File15=hhttps://dn710608.ca.archive.org/0/items/08-every-planet-we-reach-is-dead_202503/Demon%20Days/13%20Fire%20Coming%20Out%20of%20the%20Monkey%E2%80%99s%20Head.mp3
+File15=https://dn710608.ca.archive.org/0/items/08-every-planet-we-reach-is-dead_202503/Demon%20Days/13%20Fire%20Coming%20Out%20of%20the%20Monkey%E2%80%99s%20Head.mp3
 Title15=Fire Coming Out of the Monkey's Head
 
-File16=https://ia600205.us.archive.org/21/items/08-every-planet-we-reach-is-dead_202503/Demon%20Days/12%20Dare.mp3
+File16=https://dn710608.ca.archive.org/0/items/08-every-planet-we-reach-is-dead_202503/Demon%20Days/14%20Don%E2%80%99t%20Get%20Lost%20in%20Heaven.mp3
 Title16=Don't Get Lost in Heaven
 
 File17=https://dn710608.ca.archive.org/0/items/08-every-planet-we-reach-is-dead_202503/Demon%20Days/15%20Demon%20Days.mp3
