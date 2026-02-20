@@ -124,3 +124,12 @@ channels:
       - startTime: 06:00
         endTime: 18:00
         image: https://cmd-hue.github.io/camel/musicvoice/musicvoice_slide.png
+
+
+- number: 11
+  title: VM
+  name: VM
+  abbr: VM
+  iframe: 
+  src: https://cmd-hue.github.io/uservm/embed
+  allowInteraction: true
