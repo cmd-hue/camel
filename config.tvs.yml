@@ -136,3 +136,14 @@ channels:
   iframe: 
    src: https://cmd-hue.github.io/uservm/embed
    allowInteraction: true
+
+- number: 
+  title: South Gilmore Rd Fairfield Oh
+  name: South Gilmore Rd Fairfield Oh
+  abbr: SGRFO
+  backgroundAudio: https://file.garden/aUYIWVAKvQxCBY-_/music/ai%20sponge%20news.mp3
+  weather:
+    provider: usa
+    units: metric
+    latitude: 39.3276
+    longitude: -84.5215
