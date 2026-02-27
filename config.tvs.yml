@@ -147,3 +147,9 @@ channels:
     units: metric
     latitude: 39.3276
     longitude: -84.5215
+  
+- number: 13
+  name: 24/7 Cartoons
+  title: 24/7 Cartoons
+  abbr: PRE
+  video: https://asp6.toonamiaftermath.com/livehttporigin/est/mdnOcD-iMoJ0u-playlist.m3u8
