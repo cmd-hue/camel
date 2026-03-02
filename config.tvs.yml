@@ -16,7 +16,20 @@ noSignalContent:
 
 channels:
 
-- number: 1 # As mentioned previously you can declare channels in any order; they'll be arranged when you begin.
+- number: -1
+  title: Full Screen Promos
+  abbr: FSP
+  description: Full Screen Promos
+  loop:
+      - slideshow:
+          duration: 5
+          images:
+            - https://file.garden/aUYIWVAKvQxCBY-_/480p/opinions.png
+            - https://file.garden/aUYIWVAKvQxCBY-_/480p/wtf.png
+            - https://file.garden/aUYIWVAKvQxCBY-_/480p/qubopeter.png
+
+
+- number: 1 
   name: Program Guide
   abbr: GUIDE
   title: Prevue Guide
